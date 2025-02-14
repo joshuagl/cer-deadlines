@@ -118,14 +118,7 @@ permalink:  /conference/
               {% else %}
                 $('#conf-paperslink-div').hide();
               {% endif %}
-              // FIXME
-              {% if conf.pwclink %}
-                $('#conf-pwclink').text("{{conf.pwclink}}");
-                $('#conf-pwclink').attr('href', "{{conf.pwclink}}");
-              {% else %}
-                $('#conf-pwclink-div').hide();
-              {% endif %}
-              // TODO
+              // TODO: remove
               var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #{{ conf.title }}{{ conf.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
               $('#twitter-box').html(twitter_slug);
               {% if conf.full_name %}

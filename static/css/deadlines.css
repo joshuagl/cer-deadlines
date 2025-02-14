@@ -195,7 +195,7 @@ footer {
     background-color: #0097e6;
     border-color: #0097e6;
   }
-  
+
 #sort-order-checkbox input[type="checkbox"]:after,
 #sort-order-checkbox input[type="checkbox"]:focus:after {
     border-color: #0097e6;
@@ -205,17 +205,6 @@ footer {
   text-align: right;
 }
 
-
-.pwc-link {
-  text-decoration: none;
-  border: none;
-  vertical-align: middle;
-}
-
-.pwc-link:hover {
-  border-bottom: 1px solid #1198b2;
-}
-
 .icon-inner {
   width: .95em;
   height: .95em;
@@ -223,10 +212,6 @@ footer {
   vertical-align: middle;
   position: relative;
   fill: currentColor;
-}
-
-.pwc-icon {
-  color: #1198b2;
 }
 
 .twitter-github-icons {
@@ -239,7 +224,7 @@ footer {
 }
 
 .badge-link {
-  vertical-align: middle; 
+  vertical-align: middle;
   margin-bottom: 3px;
   margin-left: 2px;
   margin-right: 2px;
