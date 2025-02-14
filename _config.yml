@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Computing Education Research Deadlines
+description: Countdowns to top Computing Education Research (CER) conference deadlines
+author: Joshua Lock
 
-domain: "aideadlin.es"
+domain: "cer-deadlines.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: CER-deadlines
+github_username: joshuagl
+github_repo: cer-deadlines
 
 markdown: kramdown
 ga_id:

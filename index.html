@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-12 col-sm-12">
                   <h1>
-                    {{ site.title }} 
+                    {{ site.title }}
                   </h1>
                 </div>
                 <div class="meta col-12">
@@ -58,8 +58,8 @@
               </div>
               <div class="meta col-12">
                 You can optionally export all deadlines to
-                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ai-deadlines.ics">Google Calendar</a> or
-                <a href="/ai-deadlines.ics">.ics</a>.
+                <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/cer-deadlines.ics">Google Calendar</a> or
+                <a href="/cer-deadlines.ics">.ics</a>.
               </div>
             </div>
         </div>
@@ -80,10 +80,6 @@
                     &ZeroWidthSpace;
                     {% if conf.paperslink %}
                       <a title="Full List of Accepted Papers" href="{{conf.paperslink}}" target="_blank"><img src="{{site.baseurl}}/static/img/033-books.svg" class="badge-link" alt="Full List of Accepted Papers" /></a>
-                    {% endif %}
-                    &ZeroWidthSpace;
-                    {% if conf.pwclink %}
-                      <a title="Browse All Papers with Code" href="{{conf.pwclink}}" target="_blank"><div class="icon-inner badge-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="s-ion-icon"><path d="M88 128h48v256H88zM232 128h48v256h-48zM160 144h48v224h-48zM304 144h48v224h-48zM376 128h48v256h-48z"></path><path d="M104 104V56H16v400h88v-48H64V104zM408 56v48h40v304h-40v48h88V56z"></path></svg></div></a>
                     {% endif %}
                     &ZeroWidthSpace;
                   </span>
@@ -151,7 +147,7 @@
         var colors = ['#341f97', '#ee5253', '#2e86de',
                       '#ff9f43', '#10ac84', '#222f3e']
 
-        
+
         {% include load_data.js %}
         {% include utils.js %}
         {% include multiselect_handler.js %}
