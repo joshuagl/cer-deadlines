@@ -1,14 +1,10 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## CER Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of Computing Education Research (CER) conference deadlines.
 
 ## Contributing
 
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
-
 Contributions are very welcome!
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
 
 To add or update a deadline:
 - Fork the repository
@@ -32,14 +28,17 @@ To add or update a deadline:
       start: YYYY-MM-DD
       end: YYYY-MM-DD
       paperslink: link-to-full-paper-list.com
-      pwclink: link-to-papers-with-code.com
       hindex: 100.0
       sub: SP
       note: Important
     ```
 - Send a pull request
 
-## Forks & other useful listings
+## Forking awesome
+
+This project is a fork of [aideadlines][2], originally created by [Abhishek Das][23] and now maintained by [Papers with Code][22].
+
+### Other forks of aideadlines (and other useful listings)
 
 - [geodeadlin.es][3] by @LukasMosser
 - [neuro-deadlines][4] by @tbryn
@@ -67,7 +66,14 @@ It uses:
 
 - [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY4.0](http://creativecommons.org/licenses/by/4.0/)
 
-[1]: https://abhshkdz.mit-license.org/
+## Test locally
+
+```
+bundle install
+bundle exec jekyll serve --livereload --incremental
+```
+
+[1]: https://mit-license.org/
 [2]: http://aideadlin.es/
 [3]: https://github.com/LukasMosser/geo-deadlines
 [4]: https://github.com/tbryn/neuro-deadlines
@@ -87,3 +93,5 @@ It uses:
 [19]: https://deadlines.cpusec.org/
 [20]: https://se-deadlines.github.io/
 [21]: https://awesome-mlss.com/
+[22]: https://paperswithcode.com/
+[23]: https://abhishekdas.com
