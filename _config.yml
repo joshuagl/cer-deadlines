@@ -2,8 +2,9 @@ title: Computing Education Research Deadlines
 description: Countdowns to top Computing Education Research (CER) conference deadlines
 author: Joshua Lock
 
-domain: "cer-deadlines.github.io"
-baseurl: ""
+domain: joshuagl.github.io
+url: https://joshuagl.github.io/cer-deadlines
+baseurl: /cer-deadlines/
 
 github_username: joshuagl
 github_repo: cer-deadlines
