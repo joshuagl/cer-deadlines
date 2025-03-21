@@ -39,6 +39,10 @@ permalink:  /conference/
             <img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" />
             <a id="conf-website" target="_blank" nohref></a>
           </div>
+          <div id="conf-note-div" class="col-12">
+            <img src="{{site.baseurl}}/static/img/269-info.svg" class="badge-link" />
+            <span id="conf-note"></span>
+          </div>
           <div id="conf-paperslink-div" class="col-12">
             <img src="{{site.baseurl}}/static/img/033-books.svg" class="badge-link" />
             Accepted Papers:
@@ -151,6 +155,11 @@ permalink:  /conference/
                 $('#conf-paperslink').attr('href', "{{conf.paperslink}}");
               {% else %}
                 $('#conf-paperslink-div').hide();
+              {% endif %}
+              {% if conf.note %}
+                $('#conf-note').text("{{conf.note}}");
+              {% else %}
+                $('#conf-note-div').hide();
               {% endif %}
               {% if conf.full_name %}
                 $('#conf-full-name').text("{{conf.full_name}}");
