@@ -1,35 +1,5 @@
 ---
 
-- title: RESPECT
-  year: 2025
-  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
-    and Technology
-  id: respect2025
-  link: https://respectconference.org/
-  deadline: '2025-02-18 23:59:59'
-  abstract_deadline: '2025-02-07 23:59:59'
-  timezone: UTC-12
-  place: Raleigh, North Carolina
-  date: "July 14\u201316, 2025"
-  start: 2025-07-14
-  end: 2025-07-16
-  sub: CER
-
-- title: ICER
-  year: 2025
-  full_name: ACM Conference on International Computing Education Research
-  id: icer2025
-  link: https://icer2025.acm.org/
-  deadline: '2025-03-21 23:59:59'
-  abstract_deadline: '2025-03-14 23:59:59'
-  timezone: UTC-12
-  place: Charlottesville, Virginia, United States
-  date: "August 03\u201306, 2025"
-  start: 2025-08-03
-  end: 2025-08-06
-  hindex: 32
-  sub: CER
-
 - title: CompEd
   year: 2025
   full_name: ACM Global Computing Education Conference
@@ -39,7 +9,7 @@
   abstract_deadline: '2025-03-17 23:59:59'
   timezone: UTC-12
   place: Gaborone, Botswana
-  date: "Oct 23\u201325, 2025"
+  date: Oct 23-25, 2025
   start: 2025-10-23
   end: 2025-10-25
   hindex: 12
@@ -55,9 +25,23 @@
   abstract_deadline: '2025-05-12 23:59:59'
   timezone: UTC-12
   place: Edinburgh, Scotland
-  date: "September 4\u20135, 2025"
+  date: September 4-5, 2025
   start: 2025-09-04
   end: 2025-09-05
+  sub: CER
+
+- title: Koli Calling
+  year: 2025
+  full_name: Koli Calling International Conference on Computing Education Research
+  id: koli2025
+  link: https://www.kolicalling.fi/
+  deadline: '2025-07-20 23:59:59'
+  timezone: UTC-12
+  place: Koli, Finland
+  date: November 13-16, 2025
+  start: 2025-11-13
+  end: 2025-11-16
+  hindex: 17
   sub: CER
 
 - title: WiPSCE
@@ -68,7 +52,7 @@
   deadline: '2025-09-25 23:59:59'
   timezone: UTC-12
   place: Aachen, Germany
-  date: "March 11\u201313, 2026"
+  date: March 11-13, 2026
   start: 2026-03-11
   end: 2026-03-13
   hindex: 14
@@ -84,25 +68,11 @@
   abstract_deadline: '2024-05-20 23:59:59'
   timezone: UTC-12
   place: virtual/online only
-  date: "December Thu 5\u2013Sun 8, 2024"
+  date: December Thu 5-Sun 8, 2024
   start: 2024-12-05
   end: 2024-12-08
   sub: CER
   note: bi-annual
-
-- title: Koli Calling
-  year: 2024
-  full_name: Koli Calling International Conference on Computing Education Research
-  id: koli2024
-  link: https://www.kolicalling.fi/
-  deadline: '2024-06-21 23:59:59'
-  timezone: UTC-12
-  place: Koli, Finland
-  date: "November 14\u201317, 2024"
-  start: 2024-11-14
-  end: 2024-11-17
-  hindex: 17
-  sub: CER
 
 - title: SIGCSE TS
   year: 2025
@@ -113,7 +83,7 @@
   abstract_deadline: '2024-07-14 23:59:59'
   timezone: UTC-12
   place: Pittsburgh, Pennsylvania, United States
-  date: "February 26\u2013March 1, 2025"
+  date: February 26-March 1, 2025
   start: 2025-02-26
   end: 2025-03-01
   hindex: 47
@@ -128,8 +98,38 @@
   abstract_deadline: '2025-01-12 23:59:59'
   timezone: UTC-12
   place: Nijmegen, Netherlands
-  date: "June 30\u2013July 2, 2025"
+  date: June 30-July 2, 2025
   start: 2025-06-30
   end: 2025-07-02
   hindex: 35
+  sub: CER
+
+- title: RESPECT
+  year: 2025
+  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
+    and Technology
+  id: respect2025
+  link: https://respectconference.org/
+  deadline: '2025-02-18 23:59:59'
+  abstract_deadline: '2025-02-07 23:59:59'
+  timezone: UTC-12
+  place: Raleigh, North Carolina
+  date: July 14-16, 2025
+  start: 2025-07-14
+  end: 2025-07-16
+  sub: CER
+
+- title: ICER
+  year: 2025
+  full_name: ACM Conference on International Computing Education Research
+  id: icer2025
+  link: https://icer2025.acm.org/
+  deadline: '2025-03-21 23:59:59'
+  abstract_deadline: '2025-03-14 23:59:59'
+  timezone: UTC-12
+  place: Charlottesville, Virginia, United States
+  date: August 03-06, 2025
+  start: 2025-08-03
+  end: 2025-08-06
+  hindex: 32
   sub: CER
