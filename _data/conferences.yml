@@ -1,21 +1,5 @@
 ---
 
-- title: CompEd
-  year: 2025
-  full_name: ACM Global Computing Education Conference
-  id: comped2025
-  link: https://comped.acm.org/2025/
-  deadline: '2025-03-24 23:59:59'
-  abstract_deadline: '2025-03-17 23:59:59'
-  timezone: UTC-12
-  place: Gaborone, Botswana
-  date: Oct 23-25, 2025
-  start: 2025-10-23
-  end: 2025-10-25
-  hindex: 12
-  sub: CER
-  note: "Biannual. Working Groups Oct 21\u201322, 2025"
-
 - title: UKICER
   year: 2025
   full_name: UK and Ireland Computing Education Research
@@ -28,6 +12,21 @@
   date: September 4-5, 2025
   start: 2025-09-04
   end: 2025-09-05
+  sub: CER
+
+- title: SIGCSE TS
+  year: 2026
+  full_name: Technical Symposium on Computer Science Education
+  id: sigcsets2026
+  link: https://sigcse2026.sigcse.org/
+  deadline: '2025-07-03 23:59:59'
+  abstract_deadline: '2025-06-26 23:59:59'
+  timezone: UTC-12
+  place: St. Louis, Missouri, United States
+  date: February 18-21, 2026
+  start: 2025-02-18
+  end: 2025-02-21
+  hindex: 47
   sub: CER
 
 - title: Koli Calling
@@ -59,20 +58,20 @@
   sub: CER
   note: No WiPSCE 2025 due to change from fall to spring scheduling
 
-- title: SIGCSE TS
-  year: 2025
-  full_name: Technical Symposium on Computer Science Education
-  id: sigcsets2025
-  link: https://sigcse2025.sigcse.org/
-  deadline: '2024-07-21 23:59:59'
-  abstract_deadline: '2024-07-14 23:59:59'
+- title: SIGCSE Virtual
+  year: 2024
+  full_name: Virtual Global Computing Education Conference
+  id: sigcsev-2024
+  link: https://sigcsevirtual.acm.org/
+  deadline: '2024-06-03 23:59:59'
+  abstract_deadline: '2024-05-20 23:59:59'
   timezone: UTC-12
-  place: Pittsburgh, Pennsylvania, United States
-  date: February 26-March 1, 2025
-  start: 2025-02-26
-  end: 2025-03-01
-  hindex: 47
+  place: virtual/online only
+  date: December Thu 5-Sun 8, 2024
+  start: 2024-12-05
+  end: 2024-12-08
   sub: CER
+  note: bi-annual
 
 - title: ITiCSE
   year: 2025
@@ -119,17 +118,18 @@
   hindex: 32
   sub: CER
 
-- title: SIGCSE Virtual
-  year: 2024
-  full_name: Virtual Global Computing Education Conference
-  id: sigcsev-2024
-  link: https://sigcsevirtual.acm.org/
-  deadline: '2024-06-03 23:59:59'
-  abstract_deadline: '2024-05-20 23:59:59'
+- title: CompEd
+  year: 2025
+  full_name: ACM Global Computing Education Conference
+  id: comped2025
+  link: https://comped.acm.org/2025/
+  deadline: '2025-03-24 23:59:59'
+  abstract_deadline: '2025-03-17 23:59:59'
   timezone: UTC-12
-  place: virtual/online only
-  date: December Thu 5-Sun 8, 2024
-  start: 2024-12-05
-  end: 2024-12-08
+  place: Gaborone, Botswana
+  date: Oct 23-25, 2025
+  start: 2025-10-23
+  end: 2025-10-25
+  hindex: 12
   sub: CER
-  note: bi-annual
+  note: "Biannual. Working Groups Oct 21\u201322, 2025"
