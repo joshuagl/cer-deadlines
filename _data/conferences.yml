@@ -30,17 +30,17 @@
   note: No WiPSCE 2025 due to change from fall to spring scheduling
 
 - title: SIGCSE Virtual
-  year: 2024
+  year: 2026
   full_name: Virtual Global Computing Education Conference
-  id: sigcsev-2024
-  link: https://sigcsevirtual.acm.org/
-  deadline: '2024-06-03 23:59:59'
-  abstract_deadline: '2024-05-20 23:59:59'
+  id: sigcsev-2026
+  link: https://sigcsevirtual2026.acm.org/
+  deadline: 'TBD'
+  # abstract_deadline: '2024-05-20 23:59:59'
   timezone: UTC-12
   place: virtual/online only
-  date: December Thu 5-Sun 8, 2024
-  start: 2024-12-05
-  end: 2024-12-08
+  date: November Thu 12-Mon 15, 2026
+  start: 2026-11-12
+  end: 2026-11-15
   sub: CER
   note: bi-annual
 
