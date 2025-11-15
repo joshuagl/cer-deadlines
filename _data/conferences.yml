@@ -1,5 +1,51 @@
 ---
 
+- title: ICER
+  year: 2026
+  full_name: null
+  id: icer-2026
+  link: https://icer2026.acm.org/
+  deadline: '2026-02-27 23:59:59'
+  abstract_deadline: '2026-02-20 23:59:59'
+  timezone: UTC-12
+  place: Uppsala, Sweden
+  date: August 11-14, 2026
+  start: 2026-08-11
+  end: 2026-08-14
+  hindex: 32
+  sub: CER
+
+- title: CompEd
+  year: 2025
+  full_name: ACM Global Computing Education Conference
+  id: comped2025
+  link: https://comped.acm.org/2025/
+  deadline: '2025-03-24 23:59:59'
+  abstract_deadline: '2025-03-17 23:59:59'
+  timezone: UTC-12
+  place: Gaborone, Botswana
+  date: Oct 23-25, 2025
+  start: 2025-10-23
+  end: 2025-10-25
+  hindex: 12
+  sub: CER
+  note: "Biannual. Working Groups Oct 21\u201322, 2025"
+
+- title: SIGCSE TS
+  year: 2026
+  full_name: Technical Symposium on Computer Science Education
+  id: sigcsets2026
+  link: https://sigcse2026.sigcse.org/
+  deadline: '2025-07-03 23:59:59'
+  abstract_deadline: '2025-06-26 23:59:59'
+  timezone: UTC-12
+  place: St. Louis, Missouri, United States
+  date: February 18-21, 2026
+  start: 2026-02-18
+  end: 2026-02-21
+  hindex: 47
+  sub: CER
+
 - title: Koli Calling
   year: 2025
   full_name: Koli Calling International Conference on Computing Education Research
@@ -27,15 +73,13 @@
   end: 2026-03-13
   hindex: 14
   sub: CER
-  note: No WiPSCE 2025 due to change from fall to spring scheduling
 
 - title: SIGCSE Virtual
   year: 2026
   full_name: Virtual Global Computing Education Conference
   id: sigcsev-2026
   link: https://sigcsevirtual2026.acm.org/
-  deadline: 'TBD'
-  # abstract_deadline: '2024-05-20 23:59:59'
+  deadline: TBA
   timezone: UTC-12
   place: virtual/online only
   date: November Thu 12-Mon 15, 2026
@@ -44,94 +88,19 @@
   sub: CER
   note: bi-annual
 
-- title: ITiCSE
-  year: 2025
-  full_name: Innovation and Technology in Computer Science Education (ITiCSE)
-  id: iticse2025
-  link: https://iticse.acm.org/2025/
-  deadline: '2025-01-19 23:59:59'
-  abstract_deadline: '2025-01-12 23:59:59'
-  timezone: UTC-12
-  place: Nijmegen, Netherlands
-  date: June 30-July 2, 2025
-  start: 2025-06-30
-  end: 2025-07-02
-  hindex: 35
-  sub: CER
-
 - title: RESPECT
-  year: 2025
-  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
-    and Technology
-  id: respect2025
-  link: https://respectconference.org/
-  deadline: '2025-02-18 23:59:59'
-  abstract_deadline: '2025-02-07 23:59:59'
-  timezone: UTC-12
-  place: Raleigh, North Carolina
-  date: July 14-16, 2025
-  start: 2025-07-14
-  end: 2025-07-16
-  sub: CER
-
-- title: ICER
-  year: 2025
-  full_name: ACM Conference on International Computing Education Research
-  id: icer2025
-  link: https://icer2025.acm.org/
-  deadline: '2025-03-21 23:59:59'
-  abstract_deadline: '2025-03-14 23:59:59'
-  timezone: UTC-12
-  place: Charlottesville, Virginia, United States
-  date: August 03-06, 2025
-  start: 2025-08-03
-  end: 2025-08-06
-  hindex: 32
-  sub: CER
-
-- title: CompEd
-  year: 2025
-  full_name: ACM Global Computing Education Conference
-  id: comped2025
-  link: https://comped.acm.org/2025/
-  deadline: '2025-03-24 23:59:59'
-  abstract_deadline: '2025-03-17 23:59:59'
-  timezone: UTC-12
-  place: Gaborone, Botswana
-  date: Oct 23-25, 2025
-  start: 2025-10-23
-  end: 2025-10-25
-  hindex: 12
-  sub: CER
-  note: "Biannual. Working Groups Oct 21\u201322, 2025"
-
-- title: UKICER
-  year: 2025
-  full_name: UK and Ireland Computing Education Research
-  id: ukicer2025
-  link: https://www.ukicer.com/
-  deadline: '2025-05-19 23:59:59'
-  abstract_deadline: '2025-05-12 23:59:59'
-  timezone: UTC-12
-  place: Edinburgh, Scotland
-  date: September 4-5, 2025
-  start: 2025-09-04
-  end: 2025-09-05
-  sub: CER
-
-- title: SIGCSE TS
   year: 2026
-  full_name: Technical Symposium on Computer Science Education
-  id: sigcsets2026
-  link: https://sigcse2026.sigcse.org/
-  deadline: '2025-07-03 23:59:59'
-  abstract_deadline: '2025-06-26 23:59:59'
+  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
+    and Technology (RESPECT)
+  id: respect2026
+  link: https://respect.acm.org/2026
+  deadline: TBA
   timezone: UTC-12
-  place: St. Louis, Missouri, United States
-  date: February 18-21, 2026
-  start: 2025-02-18
-  end: 2025-02-21
-  hindex: 47
+  place: Chicago, Illinois, United States
+  date: June 8-11, 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  hindex: null
   sub: CER
 
 - title: ITiCSE
@@ -139,11 +108,23 @@
   full_name: Innovation and Technology in Computer Science Education (ITiCSE)
   id: iticse2026
   link: https://iticse.acm.org/2026/
-  deadline: TBD
+  deadline: TBA
   timezone: UTC-12
   place: Madrid, Spain
   date: July 13-15, 2026
-  start: 2025-07-13
-  end: 2025-07-15
+  start: 2026-07-13
+  end: 2026-07-15
   hindex: 35
   sub: CER
+
+- title: UKICER
+  year: 2026
+  full_name: UK and Ireland Computing Education Research (UKICER) conference
+  id: ukicer2026
+  link: https://www.ukicer.com/
+  deadline: TBA
+  timezone: UTC-12
+  place: Cambridge, UK
+  date: September 3-4, 2026
+  start: 2026-09-03
+  end: 2026-09-04
