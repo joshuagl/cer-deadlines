@@ -15,6 +15,22 @@
   hindex: 35
   sub: CER
 
+- title: RESPECT
+  year: 2026
+  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
+    and Technology (RESPECT)
+  id: respect2026
+  link: https://respect.acm.org/2026
+  deadline: '2026-02-06 23:59:59'
+  abstract_deadline: '2026-01-30 23:59:59'
+  timezone: UTC-12
+  place: Chicago, Illinois, United States
+  date: June 8-11, 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  hindex: null
+  sub: CER
+
 - title: ICER
   year: 2026
   full_name: null
@@ -89,22 +105,6 @@
   hindex: 14
   sub: CER
 
-- title: RESPECT
-  year: 2026
-  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
-    and Technology (RESPECT)
-  id: respect2026
-  link: https://respect.acm.org/2026
-  deadline: '2026-02-06 23:59:59'
-  abstract_deadline: '2026-01-30 23:59:59'
-  timezone: UTC-12
-  place: Chicago, Illinois, United States
-  date: June 8-11, 2026
-  start: 2026-06-08
-  end: 2026-06-11
-  hindex: null
-  sub: CER
-
 - title: UKICER
   year: 2026
   full_name: UK and Ireland Computing Education Research (UKICER) conference
@@ -116,6 +116,7 @@
   date: September 3-4, 2026
   start: 2026-09-03
   end: 2026-09-04
+  sub: CER
 
 - title: SIGCSE Virtual
   year: 2026
