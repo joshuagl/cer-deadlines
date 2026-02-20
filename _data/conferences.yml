@@ -1,36 +1,5 @@
 ---
 
-- title: ITiCSE
-  year: 2026
-  full_name: Innovation and Technology in Computer Science Education (ITiCSE)
-  id: iticse2026
-  link: https://iticse.acm.org/2026/
-  deadline: '2026-01-19 23:59:59'
-  abstract_deadline: '2026-01-11 23:59:59'
-  timezone: UTC-12
-  place: Madrid, Spain
-  date: July 13-15, 2026
-  start: 2026-07-13
-  end: 2026-07-15
-  hindex: 35
-  sub: CER
-
-- title: RESPECT
-  year: 2026
-  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
-    and Technology (RESPECT)
-  id: respect2026
-  link: https://respect.acm.org/2026
-  deadline: '2026-02-06 23:59:59'
-  abstract_deadline: '2026-01-30 23:59:59'
-  timezone: UTC-12
-  place: Chicago, Illinois, United States
-  date: June 8-11, 2026
-  start: 2026-06-08
-  end: 2026-06-11
-  hindex: null
-  sub: CER
-
 - title: ICER
   year: 2026
   full_name: null
@@ -45,6 +14,35 @@
   end: 2026-08-14
   hindex: 32
   sub: CER
+
+- title: UKICER
+  year: 2026
+  full_name: UK and Ireland Computing Education Research (UKICER) conference
+  id: ukicer2026
+  link: https://www.ukicer.com/
+  abstract_deadline: '2026-04-13 23:59:59'
+  deadline: '2026-04-21 23:59:59'
+  timezone: UTC-12
+  place: Cambridge, UK
+  date: September 3-4, 2026
+  start: 2026-09-03
+  end: 2026-09-04
+  sub: CER
+
+- title: SIGCSE Virtual
+  year: 2026
+  full_name: Virtual Global Computing Education Conference
+  id: sigcsev-2026
+  link: https://sigcsevirtual2026.acm.org/
+  abstract_deadline: '2026-05-01 23:59:59'
+  deadline: '2026-05-08 23:59:59'
+  timezone: UTC-12
+  place: virtual/online only
+  date: November Thu 12-Mon 15, 2026
+  start: 2026-11-12
+  end: 2026-11-15
+  sub: CER
+  note: bi-annual
 
 - title: CompEd
   year: 2025
@@ -105,29 +103,33 @@
   hindex: 14
   sub: CER
 
-- title: UKICER
+- title: ITiCSE
   year: 2026
-  full_name: UK and Ireland Computing Education Research (UKICER) conference
-  id: ukicer2026
-  link: https://www.ukicer.com/
-  deadline: TBA
+  full_name: Innovation and Technology in Computer Science Education (ITiCSE)
+  id: iticse2026
+  link: https://iticse.acm.org/2026/
+  deadline: '2026-01-19 23:59:59'
+  abstract_deadline: '2026-01-11 23:59:59'
   timezone: UTC-12
-  place: Cambridge, UK
-  date: September 3-4, 2026
-  start: 2026-09-03
-  end: 2026-09-04
+  place: Madrid, Spain
+  date: July 13-15, 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  hindex: 35
   sub: CER
 
-- title: SIGCSE Virtual
+- title: RESPECT
   year: 2026
-  full_name: Virtual Global Computing Education Conference
-  id: sigcsev-2026
-  link: https://sigcsevirtual2026.acm.org/
-  deadline: TBA
+  full_name: Research on Equity and Sustained Participation in Engineering, Computing,
+    and Technology (RESPECT)
+  id: respect2026
+  link: https://respect.acm.org/2026
+  deadline: '2026-02-06 23:59:59'
+  abstract_deadline: '2026-01-30 23:59:59'
   timezone: UTC-12
-  place: virtual/online only
-  date: November Thu 12-Mon 15, 2026
-  start: 2026-11-12
-  end: 2026-11-15
+  place: Chicago, Illinois, United States
+  date: June 8-11, 2026
+  start: 2026-06-08
+  end: 2026-06-11
+  hindex: null
   sub: CER
-  note: bi-annual
