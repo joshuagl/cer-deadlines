@@ -1,20 +1,5 @@
 ---
 
-- title: ICER
-  year: 2026
-  full_name: null
-  id: icer-2026
-  link: https://icer2026.acm.org/
-  deadline: '2026-02-27 23:59:59'
-  abstract_deadline: '2026-02-20 23:59:59'
-  timezone: UTC-12
-  place: Uppsala, Sweden
-  date: August 11-14, 2026
-  start: 2026-08-11
-  end: 2026-08-14
-  hindex: 32
-  sub: CER
-
 - title: UKICER
   year: 2026
   full_name: UK and Ireland Computing Education Research (UKICER) conference
@@ -43,6 +28,21 @@
   end: 2026-11-15
   sub: CER
   note: bi-annual
+
+- title: SIGCSE
+  year: 2027
+  full_name: Technical Symposium on Computer Science Education
+  id: sigcsets2027
+  link: https://sigcse-ts.acm.org/2027
+  deadline: '2026-07-03 23:59:59'
+  abstract_deadline: '2026-06-26 23:59:59'
+  timezone: UTC-12
+  place: Sacramento, California, United States
+  date: February 17-20, 2027
+  start: 2027-02-17
+  end: 2027-02-20
+  hindex: 47
+  sub: CER
 
 - title: CompEd
   year: 2025
@@ -132,4 +132,19 @@
   start: 2026-06-08
   end: 2026-06-11
   hindex: null
+  sub: CER
+
+- title: ICER
+  year: 2026
+  full_name: Conference on International Computing Education Research
+  id: icer-2026
+  link: https://icer2026.acm.org/
+  deadline: '2026-02-27 23:59:59'
+  abstract_deadline: '2026-02-20 23:59:59'
+  timezone: UTC-12
+  place: Uppsala, Sweden
+  date: August 11-14, 2026
+  start: 2026-08-11
+  end: 2026-08-14
+  hindex: 32
   sub: CER
