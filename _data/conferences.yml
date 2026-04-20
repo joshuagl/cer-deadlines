@@ -148,3 +148,17 @@
   end: 2026-08-14
   hindex: 32
   sub: CER
+
+- title: Koli Calling
+  year: 2026
+  full_name: Koli Calling International Conference on Computing Education Research
+  id: koli2026
+  link: https://www.kolicalling.fi/
+  deadline: '2026-07-12 23:59:59'
+  timezone: UTC-12
+  place: Koli, Finland
+  date: November 13-16, 2026
+  start: 2026-11-05
+  end: 2026-11-08
+  hindex: 17
+  sub: CER
