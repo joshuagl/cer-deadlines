@@ -92,8 +92,8 @@
   full_name: ACM Global Computing Education Conference
   id: comped2027
   link: https://comped.acm.org/2027/
-  deadline: TBD
-  abstract_deadline: TBD
+  deadline: TBA
+  abstract_deadline: TBA
   timezone: UTC-12
   place: "S\xE3o Paulo, Brazil"
   date: Sep 28-Oct 2, 2027
@@ -109,12 +109,12 @@
     and Technology (RESPECT)
   id: respect2027
   link: https://respect.acm.org/2027
-  deadline: TBD
-  abstract_deadline: TBD
+  deadline: TBA
+  abstract_deadline: TBA
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  start: TBD
-  end: TBD
+  place: TBA
+  date: TBA
+  start: TBA
+  end: TBA
   hindex: null
   sub: CER
