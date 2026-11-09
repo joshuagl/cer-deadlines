@@ -1,19 +1,5 @@
 ---
 
-- title: WiPSCE
-  year: 2027
-  full_name: Workshop in Primary and Secondary Computing Education
-  id: wipcse2027
-  link: https://www.wipsce.org/2027/
-  deadline: '2026-09-27 23:59:59'
-  timezone: UTC-12
-  place: Ljubljana, Slovenia
-  date: February 3-5, 2027
-  start: 2027-02-03
-  end: 2027-02-05
-  hindex: 14
-  sub: CER
-
 - title: ITiCSE
   year: 2027
   full_name: Innovation and Technology in Computer Science Education (ITiCSE)
@@ -27,6 +13,21 @@
   start: 2026-07-12
   end: 2026-07-14
   hindex: 35
+  sub: CER
+
+- title: ICER
+  year: 2027
+  full_name: Conference on International Computing Education Research
+  id: icer2027
+  link: https://2027.icer.acm.org/
+  deadline: '2027-04-09 23:59:59'
+  abstract_deadline: '2027-04-02 23:59:59'
+  timezone: UTC-12
+  place: Sacramento, California, United States
+  date: August 2-5, 2027
+  start: 2027-08-02
+  end: 2027-08-05
+  hindex: 29
   sub: CER
 
 - title: UKICER
@@ -85,6 +86,20 @@
   start: 2026-11-05
   end: 2026-11-08
   hindex: 17
+  sub: CER
+
+- title: WiPSCE
+  year: 2027
+  full_name: Workshop in Primary and Secondary Computing Education
+  id: wipcse2027
+  link: https://www.wipsce.org/2027/
+  deadline: '2026-09-27 23:59:59'
+  timezone: UTC-12
+  place: Ljubljana, Slovenia
+  date: February 3-5, 2027
+  start: 2027-02-03
+  end: 2027-02-05
+  hindex: 14
   sub: CER
 
 - title: CompEd
